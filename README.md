@@ -1,9 +1,66 @@
-# 💫 About Me:
-🚀 Senior Data Engineer with nearly 6 years of experience building scalable, cloud-native data platforms across Azure and GCP. I specialize in designing and optimizing high-performance ETL pipelines, migrating legacy systems to modern big data stacks, and enabling analytics-driven decision-making.<br><br>🛠️ I work extensively with Python, PySpark, SQL, Databricks, Snowflake, dbt, Kafka, Airflow, and BigQuery, focusing on reliability, performance, and clean data modeling. I enjoy solving complex data problems, optimizing distributed systems, and turning raw data into trusted business insights.<br><br>🌱 Currently expanding my skill set in real-time data processing, streaming architectures, and GenAI-assisted development to build future-ready data platforms.<br><br>🤝 Open to collaborating on data engineering, big data, cloud, and analytics projects, and available for freelance work.<br><br>💬 Ask me about data pipelines, Spark optimizations, cloud migrations, ETL/ELT design, and data quality frameworks.<br><br>⚡ Fun fact: I love refactoring legacy pipelines almost as much as I love reducing job runtimes by 70%.
+<div align="center">
 
+# Hi, I'm Pankaj Kumar 👋
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-e0301e?style=flat&logoColor=white)](https://datawithpankaj.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mepankajkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankaj.k.dataeng@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E0301E&center=true&vCenter=true&width=600&lines=Senior+Data+Engineer;Lakehouse+%26+Streaming+Pipelines;Azure+Databricks+%7C+GCP+%7C+Snowflake;Databricks+Certified+Data+Engineer)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e0301e?style=for-the-badge&logoColor=white)](https://datawithpankaj.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mepankajkumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankaj.k.dataeng@gmail.com)
+
+</div>
+
+<br>
+
+## 🚀 About Me
+
+- 🎯 Databricks-certified **Senior Data Engineer** with **nearly 6 years** building Lakehouse platforms and streaming pipelines on **Azure Databricks** and **GCP**
+- ⚡ Work spans **10M+ daily events** at sub-5-second latency, **30% faster** processing, and regulated data across **healthcare, banking, and telecom**
+- 🌱 Currently exploring real-time streaming architecture and GenAI-assisted data engineering
+- 💼 Open to full-time roles **and freelance data engineering projects**
+- 📄 [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9caa71ad-1526-4048-a8d5-796febdfc6ba#acc.wl5VUvpd)
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+**Databricks & Streaming**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Cloud & Platforms**
+
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+**Orchestration & DevOps**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=datawithpankaj&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=datawithpankaj&layout=compact&theme=default&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=datawithpankaj&theme=default&hide_border=true" />
+</div>
+
+<br>
+
+## 💼 Freelance & Collaboration
+
+Available for short-term engagements: Lakehouse builds, pipeline migrations, real-time streaming, and dbt/analytics engineering. **[View my portfolio →](https://datawithpankaj.github.io)**
+
+<br>
+
+<div align="center">
+<sub>Built with data, coffee, and a mild obsession with reducing pipeline runtimes.</sub>
+</div>
